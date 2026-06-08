@@ -1,3 +1,5 @@
+<img width="1372" height="937" alt="image" src="https://github.com/romanuvelshankar/AranAI/blob/master/Aran%20AI.png" />
+
 # AranAI
 An intelligent system designed to help emergency services
 
